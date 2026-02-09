@@ -1,6 +1,6 @@
 # 10-projects
 10 small projects in java to learn and be similar to coding.
-
+# DON'T USE CHATGP.
 # the Projects:
 
 10 Beginner Java Projects (in increasing difficulty)
