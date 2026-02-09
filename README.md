@@ -4,6 +4,8 @@
 # the Projects:
 
 10 Beginner Java Projects (in increasing difficulty)
+
+
 1️⃣ Simple Calculator
 
 What you’ll learn: variables, operators, Scanner, if / switch
